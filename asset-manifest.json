@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyPortfolioApp/static/css/main.6a0ccfbb.chunk.css",
+    "main.js": "/MyPortfolioApp/static/js/main.c94cc966.chunk.js",
+    "main.js.map": "/MyPortfolioApp/static/js/main.c94cc966.chunk.js.map",
+    "runtime-main.js": "/MyPortfolioApp/static/js/runtime-main.31068012.js",
+    "runtime-main.js.map": "/MyPortfolioApp/static/js/runtime-main.31068012.js.map",
+    "static/css/2.ec02d681.chunk.css": "/MyPortfolioApp/static/css/2.ec02d681.chunk.css",
+    "static/js/2.578b1185.chunk.js": "/MyPortfolioApp/static/js/2.578b1185.chunk.js",
+    "static/js/2.578b1185.chunk.js.map": "/MyPortfolioApp/static/js/2.578b1185.chunk.js.map",
+    "index.html": "/MyPortfolioApp/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/MyPortfolioApp/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.6a0ccfbb.chunk.css.map": "/MyPortfolioApp/static/css/main.6a0ccfbb.chunk.css.map",
+    "static/js/2.578b1185.chunk.js.LICENSE.txt": "/MyPortfolioApp/static/js/2.578b1185.chunk.js.LICENSE.txt",
+    "static/media/profile.b25d739b.jpg": "/MyPortfolioApp/static/media/profile.b25d739b.jpg",
+    "static/media/prototype.91a42757.png": "/MyPortfolioApp/static/media/prototype.91a42757.png",
+    "static/media/web.ce99bdce.png": "/MyPortfolioApp/static/media/web.ce99bdce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31068012.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.578b1185.chunk.js",
+    "static/css/main.6a0ccfbb.chunk.css",
+    "static/js/main.c94cc966.chunk.js"
+  ]
+}
